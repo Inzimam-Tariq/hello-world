@@ -1,2 +1,1 @@
-# hello-world
-practice for making github repository project.
+Hi guys I'm Inzimam Tariq student of MS Remote Sensing And GIS at University of The Punjab Lahore. I love to work with computer technologies and currentlly I'm working on an Android App named BookMyUmrah for a business also name as Book My Umrah which provide reliable umrah packages form top travel companies (Registered).
